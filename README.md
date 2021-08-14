@@ -20,7 +20,7 @@ A collection of all my projects on GitHub.
 
 
 ### E
-- <a href="https://github.com/rosajen27/employee-directory">Employee Directory</a>
+- <a href="https://github.com/rosajen27/employee-directory">Employee Directory</a> (React)
 - <a href="https://github.com/rosajen27/employee-summary">Employee Summary</a>
 - <a href="https://github.com/rosajen27/employee-tracker">Employee Tracker</a>
 
@@ -34,7 +34,7 @@ A collection of all my projects on GitHub.
 
 
 ## K
-- <a href="https://github.com/rosajen27/keeper">Keeper</a>
+- <a href="https://github.com/rosajen27/keeper">Keeper</a> (React)
 
 
 ### M
@@ -42,7 +42,7 @@ A collection of all my projects on GitHub.
 
 
 ### N
-- <a href="https://github.com/rosajen27/news-app">News App</a>
+- <a href="https://github.com/rosajen27/news-app">News App</a> (React)
 - <a href="https://github.com/rosajen27/note-taker">Note Taker</a>
 
 
