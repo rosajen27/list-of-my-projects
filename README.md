@@ -55,7 +55,7 @@ A collection of all my projects on GitHub.
 ### R
 - <a href="https://github.com/rosajen27/react-portfolio">React Portfolio</a>
 - <a href="https://github.com/rosajen27/README-Generator">README Generator</a>
-- - <a href="https://github.com/rosajen27/robofriends">Robo Friends</a> (React)
+- <a href="https://github.com/rosajen27/robofriends">Robo Friends</a> (React)
 
 
 ### S
