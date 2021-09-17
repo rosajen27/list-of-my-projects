@@ -46,6 +46,10 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/rosajen27/note-taker">Note Taker</a>
 
 
+### O
+- <a href="https://github.com/rosajen27/omnifood">Omnifood</a>
+
+
 ### P
 - <a href="https://github.com/rosajen27/pw-gen">Password Generator</a>
 - <a href="https://github.com/rosajen27/pig">Pig Game</a>
